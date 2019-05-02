@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<types:mule xmlns:types="http://www.mulesoft.org/schema/mule/types">
+  <types:catalog>
+    <types:type name="b" format="xml">
+      <types:example format="xml" element="Invoice" location="examples/gg.xml"/>
+    </types:type>
+  </types:catalog>
+</types:mule>

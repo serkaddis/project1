@@ -1,0 +1,18 @@
+<Invoice>
+  <InvoiceNo>300524</InvoiceNo>
+  <InvoiceDate>2000-12-07</InvoiceDate>
+  <InvoiceTime>12:40:00</InvoiceTime>
+  <TillNumber>3</TillNumber>
+   <Customer>
+    <FirstName>Hassen</FirstName>
+    <LastName>Alsherif</LastName>
+    <Title>Mr</Title>
+    <PhoneHome>013046858309</PhoneHome>
+    <PhoneWork />
+    <Billing>
+      <Address>14 High Street</Address>
+      <Address>Hursley Village</Address>
+      <Address>Hampshire</Address>
+     </Billing>
+  </Customer> 
+  </Invoice>
